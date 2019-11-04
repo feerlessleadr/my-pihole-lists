@@ -20,3 +20,5 @@ uiboot.netflix.com
 api.calleryd.com
 autohdvideoapi.com
 www.mediamonkey.com
+ping.ui.com
+trace.svc.ui.com
