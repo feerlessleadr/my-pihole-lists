@@ -10,7 +10,6 @@ v.firebog.net
 www.dshield.org
 www.joewein.net
 hostsfile.org
-someonewhocares.org
 winhelp2002.mvps.org
 adaway.org
 gist.githubusercontent.com
@@ -18,7 +17,6 @@ mirror.cedia.org.ec
 www.malwaredomainlist.com
 bitbucket.org
 damndelicious.net
-buffalonews.com
 tiny.cc
 wpad.us.deloitte.com
 cdn.cpnscdn.com
@@ -27,7 +25,6 @@ thehockeywriters.com
 www.howtogeek.com
 androidtv.news
 serverfault.com
-predominantlypaleo.com
 winteriscoming.net
 freebeacon.com
 goo.gl
