@@ -2,7 +2,6 @@
 thefreethoughtproject.com
 bit.ly
 raw.githubusercontent.com
-mirror1.malwaredomains.com
 sysctl.org
 s3.amazonaws.com
 hosts-file.net
@@ -18,7 +17,6 @@ gist.githubusercontent.com
 mirror.cedia.org.ec
 www.malwaredomainlist.com
 bitbucket.org
-ransomwaretracker.abuse.ch
 damndelicious.net
 buffalonews.com
 tiny.cc
@@ -28,9 +26,7 @@ t.co
 thehockeywriters.com
 www.howtogeek.com
 androidtv.news
-abountifulkitchen.com
 serverfault.com
-lifehacker.com
 predominantlypaleo.com
 winteriscoming.net
 freebeacon.com
@@ -52,10 +48,7 @@ merchant.wgiftcard.com
 accounts.nvgs.nvidia.com
 graph.facebook.com
 screenrant.com
-www.pornhub.com
 legalinsurrection.com
 api.branch.io
 cdn.branch.io
-www.xvideos.com
 ow.ly
-spankbang.com
