@@ -1,5 +1,4 @@
 
-thefreethoughtproject.com
 bit.ly
 raw.githubusercontent.com
 sysctl.org
@@ -25,7 +24,6 @@ thehockeywriters.com
 www.howtogeek.com
 androidtv.news
 serverfault.com
-winteriscoming.net
 freebeacon.com
 goo.gl
 www.youtube.com
@@ -43,9 +41,11 @@ www.bankrate.com
 nypost.com
 merchant.wgiftcard.com
 accounts.nvgs.nvidia.com
-graph.facebook.com
 screenrant.com
 legalinsurrection.com
 api.branch.io
 cdn.branch.io
 ow.ly
+graph.facebook.com
+smallbusiness.chron.com
+www.pornhub.com
