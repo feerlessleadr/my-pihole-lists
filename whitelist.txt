@@ -46,5 +46,4 @@ api.branch.io
 cdn.branch.io
 ow.ly
 graph.facebook.com
-smallbusiness.chron.com
 1weather.onelouder.com
