@@ -37,7 +37,6 @@ app.emby.media
 tv.emby.media
 9to5google.com
 tinyurl.com
-www.bankrate.com
 nypost.com
 merchant.wgiftcard.com
 accounts.nvgs.nvidia.com
