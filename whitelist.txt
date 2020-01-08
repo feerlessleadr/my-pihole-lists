@@ -45,7 +45,6 @@ legalinsurrection.com
 api.branch.io
 cdn.branch.io
 ow.ly
-graph.facebook.com
 1weather.onelouder.com
 nwsalert.onelouder.com
 nwsalert1.onelouder.com
